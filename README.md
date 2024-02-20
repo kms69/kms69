@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on PHP, Symfony and  Laravel.
 - 👯 I’m looking to collaborate on projects on Backend Technologies.
-- 🤔 I’m looking for help with PHP and Laravel.
+- 🤔 I’m looking for help with PHP, Symfony and  Laravel.
 
 - 📫 How to reach me:
 
