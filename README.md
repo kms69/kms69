@@ -1,15 +1,50 @@
-<h1 align="center">Hey ! Its Kaveh Mohammadi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px"></h1> 
-<h3 align="center">  PHP Backend| Laravel | Symfony Developer</h3>
+<h1 align="center">Hello! I'm Kaveh Mohammadi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px"></h1> 
+<h3 align="center">Full-Stack Developer | PHP | Python | Symfony | Laravel | Django</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaveh-mohammadi-2450b7216/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kavehmohammadi1369@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
+### 🛠️ Technologies & Skills
 
-- 🔭 I’m currently working on PHP, Symfony and  Laravel.
-- 👯 I’m looking to collaborate on projects on Backend Technologies.
-- 🤔 I’m looking for help with PHP, Symfony and  Laravel.
+**Backend Development:**
+- PHP (Symfony, Laravel)
+- Python (Django)
+- Database Design (MySQL, PostgreSQL)
+- API Development (RESTful)
 
-- 📫 How to reach me:
+**Frontend Development:**
+- HTML5, CSS3, JavaScript
+- Frontend frameworks (experience with React/Vue is a plus)
+- Responsive Design
 
-<a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:kavehmohammadi1369@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/kaveh-mohammadi-2450b7216/)</a> 
+**DevOps & Tools:**
+- Git, Docker
+- Linux Server Management
+- CI/CD Pipelines
+
+### 🌱 Current Focus
+- Improving my expertise in Symfony and Laravel ecosystems
+- Exploring advanced Python/Django patterns
+- Learning more about microservices architecture
+
+### 💼 Professional Experience
+Full-stack developer with experience building web applications using both PHP and Python stacks. Passionate about creating efficient, scalable backend systems while also paying attention to user experience.
+
+### 📫 Let's Connect
+- Email: [kavehmohammadi1369@gmail.com](mailto:kavehmohammadi1369@gmail.com)
+- LinkedIn: [Kaveh Mohammadi](https://www.linkedin.com/in/kaveh-mohammadi-2450b7216/)
+
+### 🔭 Open to
+- Collaborating on interesting projects
+- Backend development opportunities
+- Full-stack challenges
+- Open source contributions
 
 
 
