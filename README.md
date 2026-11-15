@@ -63,10 +63,13 @@
   </a>
 </p>
 
-### 🌱 Current Focus
-- Improving my expertise in Symfony and Laravel ecosystems
-- Exploring advanced Python/Django patterns
-- Learning more about microservices architecture
+### 🚀 Current Focus
+
+- **Backend Engineering:** Building scalable, maintainable applications with PHP, Symfony, and Laravel.
+- **System Architecture:** Exploring distributed systems, microservices, API design, and software architecture.
+- **Performance & Infrastructure:** Optimizing databases, improving application performance, and working with Docker-based deployments.
+- **Python Ecosystem:** Deepening my knowledge of Python and Django for backend development and automation.
+- **Independent Projects:** Designing, building, and maintaining software products from concept to deployment.
 
 ### 💼 Professional Experience
 Full-stack developer with experience building web applications using both PHP and Python stacks. Passionate about creating efficient, scalable backend systems while also paying attention to user experience.
